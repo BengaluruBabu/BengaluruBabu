@@ -2,10 +2,9 @@
 <h3 align="center">A Pure CSE Graduate from India</h3>
 
 - 🌱 I’m currently learning **Project Management**
-
 - 📫 How to reach me **bengalurubabu13@gmail.com**
 <p align="left">
-<a href="https://twitter.com/bengalurubabu13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bengalurubabu13" height="30" width="40" /></a>
+<a href="https://twitter.com/bengalurubabu13" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

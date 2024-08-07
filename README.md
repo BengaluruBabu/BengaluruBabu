@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm BengaluruBabu</h1>
+<h1 align="center">Hi 👋, I'm B Babu</h1>
 <h3 align="center">A Pure CSE Graduate from India</h3>
 
-- 🌱 I’m currently learning **Project Management**
+- 🌱 I’m currently learning **Github**
 
-- 📫 How to reach me **bengalurubabu13@gmail.com**
+- 📫 How to reach me **bengalurubabureddy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
